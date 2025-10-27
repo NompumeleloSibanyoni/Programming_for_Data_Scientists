@@ -1,2 +1,2 @@
 # Programming_for_Data_Scientists
-Reusable Python patterns, exercises, and mini-projects for data analysis.
+Mini Python projects demonstrating logic, flow control, and functions for COMS5022A (Wits)
